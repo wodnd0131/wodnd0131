@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=5C9635&height=100&section=header&text=JustDoIt!!&fontColor=000000&fontSize=50&animation=fadeIn&fontAlignY=55)
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnd0131&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnd0131&show_icons=true&theme=shadow_green)
 <br/><br/>
 
 
