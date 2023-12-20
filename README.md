@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"><br/>
 
-## :smiley_cat:  My blog is :smiley_cat: <br/>
+# :smiley_cat:  My blog is :smiley_cat: <br/>
 <a href="https://www.notion.so/PARA-213cc4c52e824e5d8f3db323cb45162c?pvs=4" target="_blank">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
 
