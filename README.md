@@ -1,9 +1,5 @@
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnd0131&show_icons=true&theme=merko)
-<br/><br/>
-
-
 
 # :smiley_cat:  Teck Stack  :smiley_cat:<br/>
 
@@ -26,4 +22,6 @@
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnd0131&show_icons=true&theme=merko)
+<br/><br/>
 </div>  
