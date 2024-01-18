@@ -11,15 +11,12 @@
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=Spring Boot&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">
-  <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-ef4223?style=flat-square&logo=CodeIgniter&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white">
 </p>
 <p align="center">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img alt="Redis" src="https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=Redis&logoColor=white">
   <img alt="Android" src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=white">
-  
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white">
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
 </p>
