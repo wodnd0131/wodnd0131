@@ -1,7 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,3,2,5,30&type=Waving&text=JeaWoong&nbsp;Hwang!&fontSize=40&theme=gruvbox_light)
-
+![header](https://capsule-render.vercel.app/api?type=Waving&text=JeaWoong&nbsp;Hwang!&fontSize=40&theme=gruvbox_light)
 <h1> :orange::smiley_cat:  Jea Woong  :smiley_cat::orange: </h1>
 <h3> Hi, There! I'm a full stack developer.</h3>
   <br/>
@@ -36,7 +35,7 @@
 <p align="center">
   <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=Postman&logoColor=white">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-0052cc?style=flat-square&logo=Figma&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
   <img alt="Notion" src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black">
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4a15ab?style=flat-square&logo=Slack&logoColor=white">
   <img alt="Discord" src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=Discord&logoColor=white">
