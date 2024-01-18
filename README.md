@@ -27,19 +27,19 @@
 
 # :orange::smiley_cat: Tools :smiley_cat::orange:
 <p align="center">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=Docker&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white">
   <img alt="Github" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white">
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=white">
 </p>
 <p align="center">
   <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=Postman&logoColor=white">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-0052cc?style=flat-square&logo=Figma&logoColor=white">
   <img alt="Notion" src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black">
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4a15ab?style=flat-square&logo=Slack&logoColor=white">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=Discord&logoColor=white">
 </p>
 <br/>
 
