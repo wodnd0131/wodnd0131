@@ -2,10 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,3,2,5,30&type=Waving&text=JeaWoong&nbsp;Hwang!&fontSize=40&theme=gruvbox_light)
 
-<h3> :orange::smiley_cat:  Jea Woong  :smiley_cat::orange: </h3>
+<h1> :orange::smiley_cat:  Jea Woong  :smiley_cat::orange: </h3>
 <p> Hi, There! I'm a full stack developer.</p>
   
-#
 
 # :orange::smiley_cat:  Teck Stack  :smiley_cat::orange:<br/>
 
