@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-# ⚒️ :smiley_cat: Tools :smiley_cat: ⚒️
+# :orange::smiley_cat: Tools :smiley_cat::orange:
 <p align="center">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=Docker&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white">
