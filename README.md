@@ -55,8 +55,9 @@
       src="https://img.shields.io/badge/wodnd0131@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 
-
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnd0131&show_icons=true&theme=merko)
-<br/><br/>
+
+<br/>
 </div>  
