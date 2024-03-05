@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=JeaWoong&nbsp;Hwang!&fontSize=40&theme=gruvbox_light)
 <h1> :orange::smiley_cat:  Jea Woong  :smiley_cat::orange: </h1>
-<h3> Hi, There! I'm a full stack developer.</h3>
+<h3> Hi, There! I'm a backend stack developer.</h3>
+<h3> Todays, I'm also learning front became fullstack developer!</h3>
   <br/>
 
 # :orange::smiley_cat:  Teck Stack  :smiley_cat::orange:<br/>
