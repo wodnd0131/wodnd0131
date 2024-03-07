@@ -25,14 +25,6 @@
 <br/>
 <br/>
 
-# :orange::smiley_cat: Tools :smiley_cat::orange:
-<p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white">
-  <img alt="Github" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white">
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=white">
-</p>
 <p align="center">
   <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=Postman&logoColor=white">
