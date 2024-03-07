@@ -25,16 +25,6 @@
 <br/>
 <br/>
 
-<p align="center">
-  <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=Postman&logoColor=white">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black">
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-4a15ab?style=flat-square&logo=Slack&logoColor=white">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=Discord&logoColor=white">
-</p>
-<br/>
-
 
 # :orange::smiley_cat: My Blog And Contact  :smiley_cat::orange:<br/>
 <a href="https://www.notion.so/PARA-213cc4c52e824e5d8f3db323cb45162c?pvs=4" target="_blank">
