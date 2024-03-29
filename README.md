@@ -1,11 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=JeaWoong&nbsp;Hwang!&fontSize=40&theme=gruvbox_light)
-<h1> :orange: Jea Woong :orange: </h1>
-<h3> Hi, There! I'm a back-end developer.</h3>
-<h3> Recently, I've been learning front-end as well to become a full-stack developer!</h3>
-  <br/>
-
 # :orange: Teck Stack :orange:<br/>
 <p align="center">
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=Spring Boot&logoColor=white">
