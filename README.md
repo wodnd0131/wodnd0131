@@ -20,7 +20,7 @@
 
 
 # :orange: My Blog And Contact :orange:<br/>
-<a href="https://www.notion.so/PARA-213cc4c52e824e5d8f3db323cb45162c?pvs=4" target="_blank">
+<a href="https://determined-road-001.notion.site/11b5ef29aba248de9d865ab27618faac" target="_blank">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
   <a href="mailto:wodnd0131@gmail.com">
     <img
