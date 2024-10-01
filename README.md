@@ -12,8 +12,6 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   </p>
-
-  <h3>Most Used Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wodnd0131&layout=compact&theme=vue" alt="Top Languages" />
 
   <h2>🍊 Portfolio & Contact 🍊</h1>
