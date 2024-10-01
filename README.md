@@ -18,6 +18,6 @@
 
   <h2>🍊 Portfolio & Contact 🍊</h1>
   
-  <p><a href="https://wodnd0131.notion.site/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-9BC724?style=for-the-badge&logo=files&logoColor=white" alt="My Portfolio" /></a><a href="mailto:wodnd0131@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
+  <p><a href="https://wodnd0131.notion.site/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9BC724?style=for-the-badge&logo=files&logoColor=white" alt="Portfolio" /></a><a href="mailto:wodnd0131@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
 </div>
