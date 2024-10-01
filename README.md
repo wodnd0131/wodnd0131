@@ -20,7 +20,7 @@
 
 
 # :orange: Introduction And Contact :orange:<br/>
-<a href="https://determined-road-001.notion.site/11b5ef29aba248de9d865ab27618faac" target="_blank">
+<a href="wodnd0131.notion.site" target="_blank">
 <img src="https://img.shields.io/badge/Introduction-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
   <a href="mailto:wodnd0131@gmail.com">
     <img
