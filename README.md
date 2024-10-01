@@ -16,9 +16,11 @@
 <br/>
 <br/>
 
-# :orange: Introduction And Contact :orange:<br/>
-<a href="wodnd0131.notion.site" target="_blank">
-<img src="https://img.shields.io/badge/Introduction-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
+# :orange: Portfolio And Contact :orange:<br/>
+  <a href="https://wodnd0131.notion.site/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/My_Portfolio-9BC724?style=for-the-badge&logo=files&logoColor=white" alt="My Portfolio" />
+  </a>
+
   <a href="mailto:wodnd0131@gmail.com">
     <img
       src="https://img.shields.io/badge/GMail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
