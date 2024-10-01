@@ -1,29 +1,23 @@
 <div align="center">
 
-# :orange: Teck Stack :orange:<br/>
-<p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-61daf0?style=flat-square&logo=React&logoColor=white">
-  <img alt="ReactNative" src="https://img.shields.io/badge/React Native-61dafb?style=flat-square&logo=React&logoColor=white">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
-</p>
-<p align="center">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat-square&logo=Spring Boot&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
-</p>
+  <h2>🍊 Tech Stack 🍊</h1>
+  
+  <p>
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  </p>
+  <p>
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="Amazon AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnd0131&layout=compact)
-<br/>
-<br/>
+  <h3>Most Used Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wodnd0131&layout=compact&theme=vue" alt="Top Languages" />
 
-# :orange: Portfolio And Contact :orange:<br/>
-  <a href="https://wodnd0131.notion.site/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/My_Portfolio-9BC724?style=for-the-badge&logo=files&logoColor=white" alt="My Portfolio" />
-  </a>
+  <h2>🍊 Portfolio & Contact 🍊</h1>
+  
+  <p><a href="https://wodnd0131.notion.site/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-9BC724?style=for-the-badge&logo=files&logoColor=white" alt="My Portfolio" /></a><a href="mailto:wodnd0131@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
-  <a href="mailto:wodnd0131@gmail.com">
-    <img
-      src="https://img.shields.io/badge/GMail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-<br/>
-</div>  
+</div>
