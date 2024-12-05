@@ -39,19 +39,11 @@
 ## 🏆 Achievements
 
 ```
-🎯 2023 학생 창업유망팀 300 성장트랙 최종 선발 - 교육부장관 인증
+🎯 2023 학생 창업유망팀 300 성장트랙 최종 선발
 🎯 제 8회 공간정보 활용 창업 아이디어 공모전 우수상
-🎯 명지대 SW인재육성사업단 경진대회 - 3위 입상
+🎯 명지 SW인재육성사업단 경진대회 - 3위 입상
 🎯 벤처스타트업 아카데미 서퍼톤 - 장려상
 ```
-
-## 📊 GitHub Stats
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wodnd0131&layout=compact&theme=vue" 
-  alt="Top Languages"
-  width="360"
-/>
 
 ## 📫 Contact & More Info
 
