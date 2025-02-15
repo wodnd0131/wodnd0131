@@ -52,7 +52,7 @@
 
 <p>
   <a href="https://wodnd0131.notion.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Dev_Blog-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Dev Blog" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" />
   </a>&nbsp;
   <a href="mailto:wodnd0131@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
