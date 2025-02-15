@@ -9,11 +9,7 @@
 저는 확장 가능한 시스템 설계와 소프트 스킬에 관심이 많은 풀스택 개발자입니다. <br>
 함께 성장하는 개발자 문화를 만들어나가고 싶습니다. 🌱
 
-## 🚀 Experience & Activities
 
-- 명지대학교 응용소프트웨어 학과 졸업 ( 2019 ~ 2025 )
-- 창업유망팀 300 성장트랙 - 키위즈 ( 2023 ~ 2024 )
-- 우아한 테크코스 7기 BackEnd ( 22025.02.11 ~ )
 
 ## 🛠 Tech Stack
 
@@ -40,6 +36,12 @@
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
 </p>
 
+## 🚀 Experience & Activities
+
+- 명지대학교 응용소프트웨어 학과 졸업 ( 2019 ~ 2025 )
+- 창업유망팀 300 성장트랙 - 키위즈 ( 2023 ~ 2024 )
+- 우아한 테크코스 7기 BackEnd ( 22025.02.11 ~ )
+
 ## 🏆 Achievements
 
 ```
@@ -54,7 +56,7 @@
   <a href="https://wodnd0131.notion.site/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" />
   </a>&nbsp;
-  <a href="mailto:wodnd0131@gmail.com">
+  <a href="mailto:wddy2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
