@@ -6,13 +6,6 @@
   </h1>
 </div>
 
-저는 확장 가능한 시스템 설계와 소프트 스킬에 관심이 많은 풀스택 개발자입니다. <br>
-함께 성장하는 개발자 문화를 만들어나가고 싶습니다. 🌱
-
-
-
-## 🛠 Tech Stack
-
 ### Backend
 
 <p>
@@ -20,20 +13,6 @@
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">&nbsp;
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>
-
-### Frontend
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp;
-</p>
-
-### Testing
-
-<p>
-  <img alt="JUnit" src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">&nbsp;
-  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
 </p>
 
 ## 🚀 Experience & Activities
@@ -49,14 +28,3 @@
 🎯 벤처스타트업 아카데미 서퍼톤 - 장려상
 🎯 명지 SW인재육성사업단 경진대회 - 3위
 ```
-
-## 📫 Contact & More Info
-
-<p>
-  <a href="https://wodnd0131.notion.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="mailto:wddy2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
