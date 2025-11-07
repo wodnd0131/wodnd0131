@@ -1,9 +1,4 @@
 <!-- Header -->
-<div>
-  <h1>
-    Hi There!😎
-  </h1>
-</div>
 
 ### Backend
 
